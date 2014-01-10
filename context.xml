@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="context.xsl"?>
+<list 
+	startdate="-600" 
+	enddate="2004" 
+	barheight="20"
+	yearwidth="4"
+	heightgap="4"
+	vertplace="1"
+	pageheight="1000"	>
+	<span type="thought">
+		<start>1905</start>
+		<end>1980</end>
+		<name>Sartre</name>
+	</span>
+	<span type="thought">
+		<start>1859</start>
+		<end>1938</end>
+		<name>Husserl</name>
+	</span>
+	<span type="thought">
+		<start>1857</start>
+		<end>1913</end>
+		<name>de Saussure</name>
+	</span>
+	<span type="thought">
+		<start>1913</start>
+		<end>1960</end>
+		<name>Camus</name>
+	</span>
+	<span type="thought">
+		<start>1908</start>
+		<end>1986</end>
+		<name>de Beauvoir</name>
+	</span>
+	<span type="thought">
+		<start>1770</start>
+		<end>1831</end>
+		<name>Hegel</name>
+	</span>
+	<span type="thought">
+		<start>1889</start>
+		<end>1976</end>
+		<name>Heidegger</name>
+	</span>
+	<span type="art">
+		<start>1883</start>
+		<end>1924</end>
+		<name>Kafka</name>
+	</span>
+	<span type="thought">
+		<start>1813</start>
+		<end>1855</end>
+		<name>Kierkegaard</name>
+	</span>
+	<span type="thought">
+		<start>1844</start>
+		<end>1900</end>
+		<name>Nietzsche</name>
+	</span>
+	<span type="science">
+		<start>1856</start>
+		<end>1939</end>
+		<name>Freud</name>
+	</span>
+	<span type="thought">
+		<start>1724</start>
+		<end>1804</end>
+		<name>Kant</name>
+	</span>
+	<span type="science">
+		<start>1646</start>
+		<end>1716</end>
+		<name>Leibniz</name>
+	</span>
+	<span type="thought">
+		<start>1711</start>
+		<end>1776</end>
+		<name>Hume</name>
+	</span>
+	<span type="thought">
+		<start>1818</start>
+		<end>1883</end>
+		<name>Marx</name>
+	</span>
+	<span type="thought">
+		<start>1806</start>
+		<end>1873</end>
+		<name>Mill</name>
+	</span>
+	<span type="thought">
+		<start>1712</start>
+		<end>1778</end>
+		<name>Rousseau</name>
+	</span>
+	<span type="thought">
+		<start>1872</start>
+		<end>1970</end>
+		<name>Russell</name>
+	</span>
+	<span type="science">
+		<start>1723</start>
+		<end>1790</end>
+		<name>Smith</name>
+	</span>
+	<span type="thought">
+		<start>1596</start>
+		<end>1650</end>
+		<name>Descartes</name>
+	</span>
+	<span type="thought">
+		<start>1588</start>
+		<end>1679</end>
+		<name>Hobbes</name>
+	</span>
+	<span type="thought">
+		<start>1632</start>
+		<end>1704</end>
+		<name>Locke</name>
+	</span>
+	<span type="science">
+		<start>1623</start>
+		<end>1662</end>
+		<name>Pascal</name>
+	</span>
+	<span type="thought">
+		<start>1694</start>
+		<end>1778</end>
+		<name>Voltaire</name>
+	</span>
+	<span type="art">
+		<start>1881</start>
+		<end>1973</end>
+		<name>Picasso</name>
+	</span>
+	<span type="science">
+		<start>1642</start>
+		<end>1727</end>
+		<name>Newton</name>
+	</span>
+	<span type="science">
+		<start>1564</start>
+		<end>1642</end>
+		<name>Galileo</name>
+	</span>
+	<span type="science">
+		<start>1879</start>
+		<end>1955</end>
+		<name>Einstein</name>
+	</span>
+	<span type="science">
+		<start>1928</start>
+		<end>2002</end>
+		<name>Chomsky</name>
+	</span>
+	<span type="leaders">
+		<start>1920</start>
+		<end>1996</end>
+		<name>Leary</name>
+	</span>
+	<span type="thought">
+		<start>1911</start>
+		<end>1980</end>
+		<name>McLuhan</name>
+	</span>
+	<span type="science">
+		<start>1895</start>
+		<end>1983</end>
+		<name>Fuller</name>
+	</span>
+	<span type="science">
+		<start>1875</start>
+		<end>1961</end>
+		<name>Jung</name>
+	</span>
+	<span type="thought">
+		<start>1894</start>
+		<end>1963</end>
+		<name>Huxley</name>
+	</span>
+	<span type="leaders">
+		<start>1869</start>
+		<end>1948</end>
+		<name>Ghandi</name>
+	</span>
+	<span type="art">
+		<start>1685</start>
+		<end>1750</end>
+		<name>Bach</name>
+	</span>
+	<span type="art">
+		<start>1756</start>
+		<end>1791</end>
+		<name>Mozart</name>
+	</span>
+	<span type="art">
+		<start>1770</start>
+		<end>1827</end>
+		<name>Beethoven</name>
+	</span>
+	<span type="science">
+		<start>1635</start>
+		<end>1703</end>
+		<name>Hooke</name>
+	</span>
+	<span type="thought">
+		<start>1451</start>
+		<end>1506</end>
+		<name>Columbus</name>
+	</span>
+	<span type="thought">
+		<start>1561</start>
+		<end>1626</end>
+		<name>Bacon</name>
+	</span>
+	<span type="thought">
+		<start>1859</start>
+		<end>1952</end>
+		<name>Dewey</name>
+	</span>
+	<span type="thought">
+		<start>1469</start>
+		<end>1527</end>
+		<name>Machiavelli</name>
+	</span>
+	<span type="thought">
+		<start>1478</start>
+		<end>1535</end>
+		<name>More</name>
+	</span>
+	<span type="thought">
+		<start>1930</start>
+		<end>2002</end>
+		<name>Derrida</name>
+	</span>
+	<span type="thought">
+		<start>1926</start>
+		<end>1984</end>
+		<name>Foucault</name>
+	</span>
+	<span type="science">
+		<start>1906</start>
+		<end>1978</end>
+		<name>Godel</name>
+	</span>
+	<span type="science">
+		<start>1912</start>
+		<end>1954</end>
+		<name>Turing</name>
+	</span>
+	<span type="art">
+		<start>1898</start>
+		<end>1972</end>
+		<name>Escher</name>
+	</span>
+	<span type="leaders">
+		<start>1842</start>
+		<end>1921</end>
+		<name>Kropotkin</name>
+	</span>
+	<span type="science">
+		<start>1452</start>
+		<end>1519</end>
+		<name>DaVinci</name>
+	</span>
+	<span type="thought">
+		<start>1483</start>
+		<end>1546</end>
+		<name>Luther</name>
+	</span>
+	<span type="art">
+		<start>1475</start>
+		<end>1564</end>
+		<name>Michelangelo</name>
+	</span>
+	<span type="thought">
+		<start>1509</start>
+		<end>1565</end>
+		<name>Calvin</name>
+	</span>
+	<span type="science">
+		<start>1397</start>
+		<end>1478</end>
+		<name>Gutenberg</name>
+	</span>
+	<span type="thought">
+		<start>1480</start>
+		<end>1521</end>
+		<name>Magellan</name>
+	</span>
+	<span type="art">
+		<start>1564</start>
+		<end>1616</end>
+		<name>Shakespeare</name>
+	</span>
+	<span type="art">
+		<start>1622</start>
+		<end>1673</end>
+		<name>Moliere</name>
+	</span>
+	<span type="science">
+		<start>1473</start>
+		<end>1543</end>
+		<name>Copernicus</name>
+	</span>
+	<span type="science">
+		<start>1571</start>
+		<end>1630</end>
+		<name>Kepler</name>
+	</span>
+	<span type="science">
+		<start>1809</start>
+		<end>1882</end>
+		<name>Darwin</name>
+	</span>
+	<span type="art">
+		<start>1812</start>
+		<end>1870</end>
+		<name>Dickens</name>
+	</span>
+	<span type="science">
+		<start>1170</start>
+		<end>1240</end>
+		<name>Fibonacci</name>
+	</span>
+	<span type="leaders">
+		<start>1167</start>
+		<end>1227</end>
+		<name>Kahn</name>
+	</span>
+	<span type="thought">
+		<start>1254</start>
+		<end>1323</end>
+		<name>Polo</name>
+	</span>
+	<span type="art">
+		<start>1343</start>
+		<end>1400</end>
+		<name>Chaucer</name>
+	</span>
+	<span type="art">
+		<start>1667</start>
+		<end>1745</end>
+		<name>Swift</name>
+	</span>
+	<span type="art">
+		<start>1772</start>
+		<end>1834</end>
+		<name>Coleridge</name>
+	</span>
+	<span type="art">
+		<start>1795</start>
+		<end>1821</end>
+		<name>Keats</name>
+	</span>
+	<span type="art">
+		<start>1865</start>
+		<end>1939</end>
+		<name>Yeats</name>
+	</span>
+	<span type="art">
+		<start>1882</start>
+		<end>1941</end>
+		<name>Joyce</name>
+	</span>
+	<span type="art">
+		<start>1898</start>
+		<end>1963</end>
+		<name>Lewis</name>
+	</span>
+	<span type="art">
+		<start>1832</start>
+		<end>1898</end>
+		<name>Caroll</name>
+	</span>
+	<span type="art">
+		<start>1788</start>
+		<end>1824</end>
+		<name>Byron</name>
+	</span>
+	<span type="science">
+		<start>1791</start>
+		<end>1871</end>
+		<name>Babbage</name>
+	</span>
+	<span type="leaders">
+		<start>1491</start>
+		<end>1556</end>
+		<name>Loyola</name>
+	</span>
+	<span type="thought">
+		<start>1731</start>
+		<end>1784</end>
+		<name>Diderot</name>
+	</span>
+	<span type="thought">
+		<start>1226</start>
+		<end>1274</end>
+		<name>Aquinas</name>
+	</span>
+	<span type="art">
+		<start>50</start>
+		<end>125</end>
+		<name>Plutarch</name>
+	</span>
+	<span type="leaders">
+		<start>100</start>
+		<end>170</end>
+		<name>Ptolemy</name>
+	</span>
+	<span type="leaders">
+		<start>1769</start>
+		<end>1821</end>
+		<name>Napoleon</name>
+	</span>
+	<span type="leaders">
+		<start>-100</start>
+		<end>-44</end>
+		<name>Caesar</name>
+	</span>
+	<span type="ancients">
+		<start>-384</start>
+		<end>-322</end>
+		<name>Aristotle</name>
+	</span>
+	<span type="ancients">
+		<start>-470</start>
+		<end>-399</end>
+		<name>Socrates</name>
+	</span>
+	<span type="ancients">
+		<start>-429</start>
+		<end>-347</end>
+		<name>Plato</name>
+	</span>
+	<span type="science">
+		<start>-287</start>
+		<end>-212</end>
+		<name>Archimedes</name>
+	</span>
+	<span type="ancients">
+		<start>-384</start>
+		<end>-322</end>
+		<name>Demosthenes</name>
+	</span>
+	<span type="ancients">
+		<start>-460</start>
+		<end>-377</end>
+		<name>Hippocrates</name>
+	</span>
+	<span type="science">
+		<start>-569</start>
+		<end>-475</end>
+		<name>Pythagoras</name>
+	</span>
+	<span type="leaders">
+		<start>406</start>
+		<end>453</end>
+		<name>Attila</name>
+	</span>
+	<span type="leaders">
+		<start>742</start>
+		<end>814</end>
+		<name>Charlemagne</name>
+	</span>
+	<span type="leaders">
+		<start>-6</start>
+		<end>30</end>
+		<name>Jesus</name>
+	</span>
+	<span type="leaders">
+		<start>-356</start>
+		<end>-323</end>
+		<name>Alexander</name>
+	</span>
+	<span type="ancients">
+		<start>-490</start>
+		<end>-430</end>
+		<name>Zeno</name>
+	</span>
+	<span type="science">
+		<start>-325</start>
+		<end>-270</end>
+		<name>Euclid</name>
+	</span>
+	<span type="ancients">
+		<start>-460</start>
+		<end>-370</end>
+		<name>Democritus</name>
+	</span>
+	<span type="ancients">
+		<start>-484</start>
+		<end>-425</end>
+		<name>Herodotus</name>
+	</span>
+	<span type="ancients">
+		<start>-318</start>
+		<end>-272</end>
+		<name>Pyrrhus</name>
+	</span>
+	<span type="thought">
+		<start>354</start>
+		<end>430</end>
+		<name>Augustine</name>
+	</span>
+	<span type="leaders">
+		<start>-247</start>
+		<end>-182</end>
+		<name>Hannibal</name>
+	</span>
+	<span type="thought">
+		<start>-560</start>
+		<end>-480</end>
+		<name>Siddhartha</name>
+	</span>
+	<span type="thought">
+		<start>-551</start>
+		<end>-479</end>
+		<name>Confucius</name>
+	</span>
+	<span type="thought">
+		<start>490</start>
+		<end>550</end>
+		<name>Bodhidharma</name>
+	</span>
+	<span type="leaders">
+		<start>-63</start>
+		<end>17</end>
+		<name>Augustus</name>
+	</span>
+	<span type="leaders">
+		<start>280</start>
+		<end>337</end>
+		<name>Constantine</name>
+	</span>
+	<span type="thought">
+		<start>-510</start>
+		<end>-450</end>
+		<name>Sun Tzu</name>
+	</span>
+	<span type="thought">
+		<start>1780</start>
+		<end>1831</end>
+		<name>Clausewitz</name>
+	</span>
+	<span type="art">
+		<start>1890</start>
+		<end>1937</end>
+		<name>Lovecraft</name>
+	</span>
+	<span type="art">
+		<start>1885</start>
+		<end>1972</end>
+		<name>Pound</name>
+	</span>
+	<span type="art">
+		<start>1809</start>
+		<end>1849</end>
+		<name>Poe</name>
+	</span>
+	<span type="art">
+		<start>1608</start>
+		<end>1674</end>
+		<name>Milton</name>
+	</span>
+	<span type="leaders">
+		<start>1336</start>
+		<end>1405</end>
+		<name>Tamerlane</name>
+	</span>
+	<span type="leaders">
+		<start>1847</start>
+		<end>1924</end>
+		<name>Wong Fei-hung</name>
+	</span>
+	<span type="leaders">
+		<start>1866</start>
+		<end>1925</end>
+		<name>Sun Yat-sen</name>
+	</span>
+	<span type="leaders">
+		<start>1584</start>
+		<end>1645</end>
+		<name>Musashi</name>
+	</span>
+	<span type="art">
+		<start>1749</start>
+		<end>1832</end>
+		<name>Goethe</name>
+	</span>
+	<span type="science">
+		<start>1777</start>
+		<end>1855</end>
+		<name>Gauss</name>
+	</span>
+	<span type="science">
+		<start>1707</start>
+		<end>1783</end>
+		<name>Euler</name>
+	</span>
+	<span type="art">
+		<start>1483</start>
+		<end>1520</end>
+		<name>Raphael</name>
+	</span>
+	<span type="science">
+		<start>1601</start>
+		<end>1665</end>
+		<name>Fermat</name>
+	</span>
+	<span type="art">
+		<start>1265</start>
+		<end>1321</end>
+		<name>Dante</name>
+	</span>
+	<span type="art">
+		<start>1828</start>
+		<end>1910</end>
+		<name>Tolstoy</name>
+	</span>
+	<span type="art">
+		<start>1821</start>
+		<end>1881</end>
+		<name>Dostoevsky</name>
+	</span>
+	<span type="art">
+		<start>1678</start>
+		<end>1741</end>
+		<name>Vivaldi</name>
+	</span>
+	<span type="art">
+		<start>1840</start>
+		<end>1893</end>
+		<name>Tchaikovsky</name>
+	</span>
+	<span type="art">
+		<start>1685</start>
+		<end>1759</end>
+		<name>Handel</name>
+	</span>
+	<span type="art">
+		<start>1841</start>
+		<end>1904</end>
+		<name>Dvorak</name>
+	</span>
+	<span type="leaders">
+		<start>1431</start>
+		<end>1476</end>
+		<name>Dracula</name>
+	</span>
+	<span type="art">
+		<start>1444</start>
+		<end>1510</end>
+		<name>Boticelli</name>
+	</span>
+	<span type="art">
+		<start>1853</start>
+		<end>1890</end>
+		<name>van Gogh</name>
+	</span>
+	<span type="art">
+		<start>1832</start>
+		<end>1883</end>
+		<name>Manet</name>
+	</span>
+	<span type="art">
+		<start>1840</start>
+		<end>1926</end>
+		<name>Monet</name>
+	</span>
+	<span type="art">
+		<start>1840</start>
+		<end>1917</end>
+		<name>Rodin</name>
+	</span>
+	<span type="science">
+		<start>1867</start>
+		<end>1934</end>
+		<name>Curie</name>
+	</span>
+	<span type="art">
+		<start>1869</start>
+		<end>1954</end>
+		<name>Matisse</name>
+	</span>
+	<span type="science">
+		<start>1706</start>
+		<end>1790</end>
+		<name>Franklin</name>
+	</span>
+	<span type="leaders">
+		<start>1743</start>
+		<end>1826</end>
+		<name>Jefferson</name>
+	</span>
+	<span type="art">
+		<start>1802</start>
+		<end>1895</end>
+		<name>Hugo</name>
+	</span>
+	<span type="art">
+		<start>1821</start>
+		<end>1880</end>
+		<name>Dumas</name>
+	</span>
+	<span type="art">
+		<start>1842</start>
+		<end>1898</end>
+		<name>Wilde</name>
+	</span>
+	<span type="art">
+		<start>1788</start>
+		<end>1824</end>
+		<name>Austin</name>
+	</span>
+	<span type="art">
+		<start>1785</start>
+		<end>1863</end>
+		<name>Grimms</name>
+	</span>
+	<span type="art">
+		<start>1621</start>
+		<end>1695</end>
+		<name>de la Fontaine</name>
+	</span>
+	<span type="art">
+		<start>1802</start>
+		<end>1885</end>
+		<name>Anderson</name>
+	</span>
+	<span type="period">
+		<start>-600</start>
+		<end>-300</end>
+		<name>Greece/Classic Age</name>
+	</span>
+	<span type="period">
+		<start>-509</start>
+		<end>-25</end>
+		<name>Roman Republic</name>
+	</span>
+	<span type="period">
+		<start>-24</start>
+		<end>35</end>
+		<name>RE: Consolidation</name>
+	</span>
+	<span type="period">
+		<start>36</start>
+		<end>200</end>
+		<name>Roman Empire</name>
+	</span>
+	<span type="period">
+		<start>201</start>
+		<end>290</end>
+		<name>RE: Decline</name>
+	</span>
+	<span type="period">
+		<start>291</start>
+		<end>360</end>
+		<name>RE: Recovery</name>
+	</span>
+	<span type="period">
+		<start>361</start>
+		<end>476</end>
+		<name>RE: Decline</name>
+	</span>
+	<span type="period">
+		<start>400</start>
+		<end>1450</end>
+		<name>Middle Ages</name>
+	</span>
+	<span type="period">
+		<start>1451</start>
+		<end>1650</end>
+		<name>Renaissance</name>
+	</span>
+	<span type="period">
+		<start>1517</start>
+		<end>1650</end>
+		<name>Reformation</name>
+	</span>
+	<span type="period">
+		<start>1415</start>
+		<end>1650</end>
+		<name>Exploration</name>
+	</span>
+	<span type="period">
+		<start>1651</start>
+		<end>1800</end>
+		<name>Enlightenment</name>
+	</span>
+	<span type="period">
+		<start>1800</start>
+		<end>1850</end>
+		<name>Romanticism</name>
+	</span>
+	<span type="period">
+		<start>1835</start>
+		<end>1901</end>
+		<name>Victorian Age</name>
+	</span>
+	<span type="thought">
+		<start>-106</start>
+		<end>-43</end>
+		<name>Cicero</name>
+	</span>
+	<span type="ancients">
+		<start>-234</start>
+		<end>-149</end>
+		<name>Cato</name>
+	</span>
+	<span type="science">
+		<start>1749</start>
+		<end>1827</end>
+		<name>Laplace</name>
+	</span>
+	<span type="science">
+		<start>1736</start>
+		<end>1813</end>
+		<name>Lagrange</name>
+	</span>
+	<span type="period">
+		<start>1378</start>
+		<end>1415</end>
+		<name>Great Schism</name>
+	</span>
+	<span type="period">
+		<start>1250</start>
+		<end>1500</end>
+		<name>Humanism</name>
+	</span>
+	<span type="period">
+		<start>1096</start>
+		<end>1291</end>
+		<name>Crusades</name>
+	</span>
+	<span type="period">
+		<start>565</start>
+		<end>750</end>
+		<name>Christianization of Britain</name>
+	</span>
+	<span type="period">
+		<start>800</start>
+		<end>900</end>
+		<name>Viking Raids</name>
+	</span>
+	<span type="period">
+		<start>1600</start>
+		<end>1680</end>
+		<name>Early Baroque</name>
+	</span>
+	<span type="period">
+		<start>1680</start>
+		<end>1750</end>
+		<name>Late Baroque</name>
+	</span>
+	<span type="period">
+		<start>1000</start>
+		<end>1200</end>
+		<name>Romanesque</name>
+	</span>
+	<span type="period">
+		<start>1100</start>
+		<end>1500</end>
+		<name>Gothic</name>
+	</span>
+	<span type="leaders">
+		<start>570</start>
+		<end>632</end>
+		<name>Muhammad</name>
+	</span>
+	<span type="period">
+		<start>1340</start>
+		<end>1470</end>
+		<name>Hundred Year's War</name>
+	</span>
+	<span type="thought">
+		<start>1324</start>
+		<end>1384</end>
+		<name>Wycliffe</name>
+	</span>
+	<span type="thought">
+		<start>1505</start>
+		<end>1572</end>
+		<name>Knox</name>
+	</span>
+	<span type="thought">
+		<start>1469</start>
+		<end>1536</end>
+		<name>Erasmus</name>
+	</span>
+	<span type="thought">
+		<start>184</start>
+		<end>254</end>
+		<name>Origen</name>
+	</span>
+	<span type="thought">
+		<start>480</start>
+		<end>525</end>
+		<name>Boethius</name>
+	</span>
+	<span type="ancients">
+		<start>-341</start>
+		<end>-270</end>
+		<name>Epicurus</name>
+	</span>
+	<span type="thought">
+		<start>55</start>
+		<end>135</end>
+		<name>Epictetus</name>
+	</span>
+	<span type="thought">
+		<start>1632</start>
+		<end>1677</end>
+		<name>Spinoza</name>
+	</span>
+	<span type="thought">
+		<start>370</start>
+		<end>415</end>
+		<name>Hypatia</name>
+	</span>
+	<span type="thought">
+		<start>205</start>
+		<end>270</end>
+		<name>Plotinus</name>
+	</span>
+	<span type="thought">
+		<start>-4</start>
+		<end>65</end>
+		<name>Seneca</name>
+	</span>
+	<span type="ancients">
+		<start>-540</start>
+		<end>-475</end>
+		<name>Heraclitus</name>
+	</span>
+	<span type="leaders">
+		<start>1599</start>
+		<end>1658</end>
+		<name>Cromwell</name>
+	</span>
+	<span type="science">
+		<start>1700</start>
+		<end>1782</end>
+		<name>Bernoulli</name>
+	</span>
+	<span type="science">
+		<start>1667</start>
+		<end>1748</end>
+		<name>Bernoulli</name>
+	</span>
+	<span type="science">
+		<start>1654</start>
+		<end>1705</end>
+		<name>Bernoulli</name>
+	</span>
+	<span type="science">
+		<start>1831</start>
+		<end>1879</end>
+		<name>Maxwell</name>
+	</span>
+	<span type="science">
+		<start>1745</start>
+		<end>1827</end>
+		<name>Volta</name>
+	</span>
+	<span type="science">
+		<start>1789</start>
+		<end>1854</end>
+		<name>Ohm</name>
+	</span>
+	<span type="science">
+		<start>1856</start>
+		<end>1943</end>
+		<name>Tesla</name>
+	</span>
+	<span type="science">
+		<start>1847</start>
+		<end>1931</end>
+		<name>Edison</name>
+	</span>
+	<span type="science">
+		<start>1775</start>
+		<end>1836</end>
+		<name>Ampere</name>
+	</span>
+	<span type="science">
+		<start>1847</start>
+		<end>1922</end>
+		<name>Bell</name>
+	</span>
+	<span type="science">
+		<start>1791</start>
+		<end>1867</end>
+		<name>Faraday</name>
+	</span>
+	<span type="science">
+		<start>1632</start>
+		<end>1723</end>
+		<name>Wren</name>
+	</span>
+	<span type="science">
+		<start>1702</start>
+		<end>1761</end>
+		<name>Bayes</name>
+	</span>
+	<span type="science">
+		<start>1512</start>
+		<end>1594</end>
+		<name>Mercator</name>
+	</span>
+	<span type="science">
+		<start>1629</start>
+		<end>1695</end>
+		<name>Huygens</name>
+	</span>
+	<span type="science">
+		<start>1656</start>
+		<end>1742</end>
+		<name>Halley</name>
+	</span>
+	<span type="science">
+		<start>1646</start>
+		<end>1719</end>
+		<name>Flamsteed</name>
+	</span>
+	<span type="period">
+		<start>1478</start>
+		<end>1834</end>
+		<name>Spanish Inquisition</name>
+	</span>
+	<span type="leaders">
+		<start>1638</start>
+		<end>1715</end>
+		<name>Louis XIV</name>
+	</span>
+	<span type="leaders">
+		<start>1585</start>
+		<end>1642</end>
+		<name>Richelieu</name>
+	</span>
+	<span type="leaders">
+		<start>1820</start>
+		<end>1910</end>
+		<name>Nightingale</name>
+	</span>
+	<span type="leaders">
+		<start>1027</start>
+		<end>1087</end>
+		<name>William the Conqueror</name>
+	</span>
+	<span type="thought">
+		<start>1182</start>
+		<end>1226</end>
+		<name>Francis of Assisi</name>
+	</span>
+	<span type="period">
+		<start>900</start>
+		<end>1400</end>
+		<name>Medieval Warm Period</name>
+	</span>
+	<span type="period">
+		<start>1400</start>
+		<end>1800</end>
+		<name>Little Ice Age</name>
+	</span>
+</list>

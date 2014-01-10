@@ -1,0 +1,41 @@
+.period 
+{
+	border: 1px solid #888888;
+	color: #888888;
+	background-color: #EEEEEE;
+}
+
+.science 
+{
+	border: 1px solid #88CC88;
+	color: #88CC88;
+	background-color: #EEFFEE;
+}
+
+.thought 
+{
+	border: 1px solid #8888FF;
+	color: #8888FF;
+	background-color: #EEEEFF;
+}
+
+.leaders 
+{
+	border: 1px solid #88CCCC;
+	color: #88CCCC;
+	background-color: #EEFFFF;
+}
+
+.art 
+{
+	border: 1px solid #FF8888;
+	color: #FF8888;
+	background-color: #FFEEEE;
+}
+
+.ancients 
+{
+	border: 1px solid #CCCC66;
+	color: #CCCC66;
+	background-color: #FFFFEE;
+}

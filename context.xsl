@@ -26,8 +26,8 @@
 	{
 		document.getElementById("theline").style.visibility = "visible";
 		document.getElementById("thetext").style.visibility = "visible";
-		document.getElementById("theline").style.pixelLeft=document.body.scrollLeft+event.clientX-1;
-		document.getElementById("thetext").style.pixelLeft=document.body.scrollLeft+event.clientX-1;
+		document.getElementById("theline").style.left=document.body.scrollLeft+event.pageX-1;
+		document.getElementById("thetext").style.left=document.body.scrollLeft+event.pageX-1;
 		document.getElementById("thetext").innerHTML= Math.floor(((document.body.scrollLeft+event.clientX-10) / <xsl:value-of select="$yearwidth" />) + <xsl:value-of select="$startdate" />);
 
 	}
